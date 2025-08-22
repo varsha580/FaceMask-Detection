@@ -1,0 +1,16 @@
+Image Path,Actual Label,Predicted Label
+face_mask_detection\mask_weared_incorrect\2458.png,mask_weared_incorrect,mask_weared_incorrect
+face_mask_detection\mask_weared_incorrect\153.png,mask_weared_incorrect,mask_weared_incorrect
+face_mask_detection\mask_weared_incorrect\2353.png,mask_weared_incorrect,mask_weared_incorrect
+face_mask_detection\mask_weared_incorrect\1677.png,mask_weared_incorrect,mask_weared_incorrect
+face_mask_detection\mask_weared_incorrect\1054.png,mask_weared_incorrect,mask_weared_incorrect
+face_mask_detection\with_mask\339.png,with_mask,with_mask
+face_mask_detection\with_mask\1871.png,with_mask,with_mask
+face_mask_detection\with_mask\2209.png,with_mask,with_mask
+face_mask_detection\with_mask\1602.png,with_mask,with_mask
+face_mask_detection\with_mask\539.png,with_mask,with_mask
+face_mask_detection\without_mask\2911.png,without_mask,without_mask
+face_mask_detection\without_mask\2733.png,without_mask,without_mask
+face_mask_detection\without_mask\1441.png,without_mask,without_mask
+face_mask_detection\without_mask\1026.png,without_mask,without_mask
+face_mask_detection\without_mask\1533.png,without_mask,without_mask
